@@ -1,33 +1,39 @@
- _____           _          _   _             ____ _                     
-|  ___|_ _ _ __ | |_ __ _  | |_| |__   ___   / ___| | _____      ___ __  
-| |_ / _` | '_ \| __/ _` | | __| '_ \ / _ \ | |   | |/ _ \ \ /\ / / '_ \ 
-|  _| (_| | | | | || (_| | | |_| | | |  __/ | |___| | (_) \ V  V /| | | |
-|_|  \__,_|_|_|_|\__\__,_|  \__|_| |_|\___|  \____|_|\___/ \_/\_/ |_| |_|
-    | | ___ | | _____ _ __ ___                                           
- _  | |/ _ \| |/ / _ \ '__/ __|                                          
-| |_| | (_) |   <  __/ |  \__ \                                          
- \___/ \___/|_|\_\___|_|  |___/  Resource Pack!
+![BevCharThumbnail](thumbnail.png)
+
+# Beverage's Character Cards!
 
 --- Art by Beverage --- v1.1
 
-A resource pack that changes 96 of the 150 Jokers in the game and a couple other misc textures.
-Brief list of Retextures:
-	- 2 Vouchers
-	- 4 Seals
-	- 3 Booster Packs
-	- 3 Tags
-	- 2 Spectral Cards
-	- 95 Jokers
+A resource pack that changes the 12 face cards of Spades, Hearts, Diamonds, and Clubs to include Beverage's original characters.
+Characters include 
+Sundrop (Jack & King of Hearts), 
+Pepsi (Queen & King of Hearts), 
+Cheerwine (Jack, Queen, and King of Clubs), 
+RC Cola (Queen and King of Spades), 
+Piña Colada (Jack of Spades), 
+Beverage (Jack of Diamonds), 
+Pink Lemonade (Queen of Diamonds), 
+Fanta (King of Diamonds).
+
+# Colorful High Contrast Cards
+
+The pack's default High Contrast cards are the same colors as Balatro's (Red Heart, Yellow Diamond, Blue Clubs, Purple Spades), but the pack also includes an alternate set of High Contrast cards (Green Clubs, Blue Spades) which offers a more colorful alternative.
+It loses some of the contrast that is intended to help those who are colorblind, but it's personally helped me (someone without colorblindness) more than the default high contrast.
+
+To activate it, it requires changing the filenames of the texture files.
+...\mods\Beverage Character Pack\assets\1x\Beverage_Cards_hc_alt.png
+...\mods\Beverage Character Pack\assets\2x\Beverage_Cards_hc_alt.png
 
 
 # Download Instructions:
-Install Lovely, Steamodded, and get [Malverk](https://balatromods.miraheze.org/wiki/Malverk), then click the green [Code] button above then in that zip
 
-Now copy the **one** folder in the zip to %AppData%\Balatro\Mods\
+Requires Steammodded and Lovely.
 
-# License?
+Download and extract folder.
 
-Code is GPLv3 and art is CC-BY-NC-SA 4.0 as per my usual
+Copy the BeverageCharacterPack folder to %AppData%\Balatro\Mods\
+
 
 
  
+
