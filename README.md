@@ -5,6 +5,7 @@
 --- Art by Beverage --- v1.1
 
 A resource pack that changes the 12 face cards of Spades, Hearts, Diamonds, and Clubs to include Beverage's original characters.
+
 Characters include 
 Sundrop (Jack & King of Hearts), 
 Pepsi (Queen & King of Hearts), 
@@ -38,5 +39,6 @@ Copy the BeverageCharacterPack folder to %AppData%\Balatro\Mods\
 
 
  
+
 
 
