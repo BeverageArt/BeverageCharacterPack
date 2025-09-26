@@ -21,7 +21,9 @@ The pack's default High Contrast cards are the same colors as Balatro's (Red Hea
 It loses some of the contrast that is intended to help those who are colorblind, but it's personally helped me (someone without colorblindness) more than the default high contrast.
 
 To activate it, it requires changing the filenames of the texture files.
+
 ...\mods\Beverage Character Pack\assets\1x\Beverage_Cards_hc_alt.png
+
 ...\mods\Beverage Character Pack\assets\2x\Beverage_Cards_hc_alt.png
 
 
@@ -36,4 +38,5 @@ Copy the BeverageCharacterPack folder to %AppData%\Balatro\Mods\
 
 
  
+
 
